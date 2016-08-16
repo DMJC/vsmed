@@ -1,0 +1,2 @@
+# vsmed
+Vegastrike Mission Editor
